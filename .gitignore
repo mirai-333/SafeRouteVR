@@ -1,0 +1,26 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+
+
+# Crash/debug backup
+debug_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# APK files
+*.apk
+
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+.DS_Store
